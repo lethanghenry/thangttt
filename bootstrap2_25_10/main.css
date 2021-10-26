@@ -1,0 +1,68 @@
+.form-control
+{
+    padding: 0px;
+    margin: 0px;
+    width: 1em;
+    height: 1.5em;
+}
+.form-group
+{
+    margin: 0px;
+    padding: 0px;
+}
+.form-inline
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.table thead{
+    background:#C1E2FC;
+}
+.btn-secondary
+{
+    background: #ebebeb;
+    color: black;
+    height: 1.5em;
+}
+.form-row
+{
+    background: #ebebeb;
+}
+.table-responsive
+{
+    max-height: 300px;
+}
+html, body{ height:100% } 
+
+body{
+  background: linear-gradient(rgb(11, 14, 231) 20%,#F4F7FC 0%) no-repeat;
+}
+.card-title
+{
+    margin: 0px;
+}
+.card{
+    background: white;
+    margin: 1em;
+}
+.card-body
+{
+    background: #ebebeb;
+    margin: 1em;
+    border-radius: 10px;
+}
+.card-header
+{
+    background: white;
+    padding-top: 0px;
+    margin: 1em;
+    
+}
+.form-row{
+    border-radius: 10px;
+}
+.form-control.col-md-4
+{
+    margin-left: 5px;
+}
